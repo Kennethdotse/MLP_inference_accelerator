@@ -1,0 +1,9 @@
+FX_IN=6
+FX_W1=6
+FX_B1=7
+FX_A1=4
+FX_W2=5
+FX_B2=8
+shift1=5
+shift2=1
+a1_shift=3
