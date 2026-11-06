@@ -1,0 +1,5 @@
+*.vcd
+mlp_sim
+pe_sim
+*.vpp
+__pycache__/
